@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "O Senhor dos Anéis",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasia",
+      "year": 1954,
+      "pages": 1178,
+      "rating": 4.8,
+      "price": 89.9,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Ficção Científica",
+      "year": 1949,
+      "pages": 328,
+      "rating": 4.7,
+      "price": 49.9,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "title": "Dom Casmurro",
+      "author": "Machado de Assis",
+      "genre": "Romance",
+      "year": 1899,
+      "pages": 256,
+      "rating": 4.6,
+      "price": 39.9,
+      "inStock": false
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter e a Pedra Filosofal",
+      "author": "J.K. Rowling",
+      "genre": "Fantasia",
+      "year": 1997,
+      "pages": 264,
+      "rating": 4.9,
+      "price": 59.9,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "title": "O Pequeno Príncipe",
+      "author": "Antoine de Saint-Exupéry",
+      "genre": "Infantil",
+      "year": 1943,
+      "pages": 96,
+      "rating": 4.8,
+      "price": 29.9,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "title": "A Revolução dos Bichos",
+      "author": "George Orwell",
+      "genre": "Fábula",
+      "year": 1945,
+      "pages": 152,
+      "rating": 4.7,
+      "price": 34.9,
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "title": "O Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasia",
+      "year": 1937,
+      "pages": 310,
+      "rating": 4.6,
+      "price": 69.9,
+      "inStock": false
+    },
+    {
+      "id": 8,
+      "title": "Memórias Póstumas de Brás Cubas",
+      "author": "Machado de Assis",
+      "genre": "Romance",
+      "year": 1881,
+      "pages": 288,
+      "rating": 4.5,
+      "price": 44.9,
+      "inStock": true
+    }
+  ]
+}

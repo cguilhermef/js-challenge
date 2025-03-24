@@ -1,0 +1,20 @@
+{
+  "name": "data-analysis-challenge",
+  "version": "1.0.0",
+  "description": "A progressive JavaScript programming challenge focused on data manipulation",
+  "main": "src/challenge.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "javascript",
+    "programming-challenge",
+    "learning"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
