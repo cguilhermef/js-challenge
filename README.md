@@ -8,12 +8,16 @@ Você será desafiado a desenvolver funções que analisam dados de uma bibliote
 
 ## 🚀 Como Começar
 
-1. Clone este repositório
-2. Instale as dependências:
+1. Crie um novo respositório utilizando este como template
+   
+   <img width="747" height="427" alt="image" src="https://github.com/user-attachments/assets/9ec52907-e16b-480c-9892-6ec7bf97a3c2" />
+   (não faça um fork!)
+3. Clone seu repositório
+4. Instale as dependências:
    ```bash
    npm install
    ```
-3. Execute os testes:
+5. Execute os testes:
    ```bash
    npm test
    ```
